@@ -7,6 +7,7 @@
 ## Categories
 
 - [Go](#Go)
+- [Linux](#Linux)
 - [Vim](#Vim)
 
 
