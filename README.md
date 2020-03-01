@@ -23,6 +23,7 @@
 ### Linux
 
 - [ターミナルの行設定の変更や表示を行う](linux/man-stty.md)
+- [ポートの開放状況を調べる](linux/check-port.md)
 
 ### Vim
 
