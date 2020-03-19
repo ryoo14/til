@@ -9,6 +9,7 @@
 - [Dev](#Dev)
 - [Go](#Go)
 - [Linux](#Linux)
+- [Mac](#Mac)
 - [Vim](#Vim)
 
 
@@ -16,14 +17,15 @@
 - [Gitを体系的に学べるサイト](dev/learn-git.md)
 
 ### Go
-
 - [ローカルでgodocサーバを実行する](go/godoc-offline.md)
 - [外部の設定ファイルを読み込む](go/read-inifile.md)
 
 ### Linux
-
 - [ターミナルの行設定の変更や表示を行う](linux/man-stty.md)
 - [ポートの開放状況を調べる](linux/check-port.md)
+
+### Mac
+- [CPUなどの情報をコマンドで取得する](mac/get-cpuinfo.md)
 
 ### Vim
 
