@@ -23,6 +23,7 @@
 ### Linux
 - [ターミナルの行設定の変更や表示を行う](linux/man-stty.md)
 - [ポートの開放状況を調べる](linux/check-port.md)
+- [期限切れしたRed Hat Developer Subscription for Individualsを更新する](linux/update-rhel-subscription.md)
 
 ### Mac
 - [CPUなどの情報をコマンドで取得する](mac/get-cpuinfo.md)
