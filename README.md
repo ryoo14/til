@@ -31,6 +31,7 @@
 
 ### VB.NET
 - [外部設定ファイルを読み込んでプログラム内で使用する](vb-net/load-external-config.md)
+- [ファイル読み書きとClose不要な手法](vb-net/read_and_write_file.md)
 
 ### Vim
 - [コマンドラインモードのTab補完で大文字小文字を無視する](vim/set-ignorecase.md)
