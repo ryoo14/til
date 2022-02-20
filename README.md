@@ -35,3 +35,4 @@
 
 ### Vim
 - [コマンドラインモードのTab補完で大文字小文字を無視する](vim/set-ignorecase.md)
+- [デフォルトのキーマップ色々](vim/default-keymaps.md)
