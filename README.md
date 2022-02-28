@@ -7,6 +7,7 @@
 ## Categories
 
 - [Dev](#Dev)
+- [Excel](#Excel)
 - [Go](#Go)
 - [Linux](#Linux)
 - [Mac](#Mac)
@@ -16,6 +17,9 @@
 
 ### Dev
 - [Gitを体系的に学べるサイト](dev/learn-git.md)
+
+### Excel
+- [関数でセルの位置を文字列で取得してから参照に変換する](excel/get-cell-potision.md)
 
 ### Go
 - [ローカルでgodocサーバを実行する](go/godoc-offline.md)
