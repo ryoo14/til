@@ -11,6 +11,7 @@
 - [Go](#Go)
 - [Linux](#Linux)
 - [Mac](#Mac)
+- [Ruby](#Ruby)
 - [VB.NET](#VB.NET)
 - [Vim](#Vim)
 
@@ -32,6 +33,9 @@
 
 ### Mac
 - [CPUなどの情報をコマンドで取得する](mac/get-cpuinfo.md)
+
+### Ruby
+- [非Rails環境で`rake db:migrate`する時に環境変数でadapterを変える](ruby/change_adapter_by_env.md)
 
 ### VB.NET
 - [外部設定ファイルを読み込んでプログラム内で使用する](vb-net/load-external-config.md)
