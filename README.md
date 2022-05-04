@@ -27,9 +27,13 @@
 - [外部の設定ファイルを読み込む](go/read-inifile.md)
 
 ### Linux
-- [ターミナルの行設定の変更や表示を行う](linux/man-stty.md)
 - [ポートの開放状況を調べる](linux/check-port.md)
+- [grepで検索結果に一致するファイル名だけ出力する](linux/grep-only-filename.md)
+- [grepで検索結果に一致する件数を出力する](linux/grep-only-count.md)
+- [ターミナルの行設定の変更や表示を行う](linux/man-stty.md)
 - [期限切れしたRed Hat Developer Subscription for Individualsを更新する](linux/update-rhel-subscription.md)
+- [xargsで指定した個数ずつ引数をコマンドに渡す](linux/xargs-multi-args.md)
+- [xargsで並行実行する](linux/xargs-multi-procs.md)
 
 ### Mac
 - [CPUなどの情報をコマンドで取得する](mac/get-cpuinfo.md)
