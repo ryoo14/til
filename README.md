@@ -14,6 +14,7 @@
 - [Ruby](#Ruby)
 - [VB.NET](#VB.NET)
 - [Vim](#Vim)
+- [Command](#Command)
 
 
 ### Dev
@@ -28,12 +29,8 @@
 
 ### Linux
 - [ポートの開放状況を調べる](linux/check-port.md)
-- [grepで検索結果に一致するファイル名だけ出力する](linux/grep-only-filename.md)
-- [grepで検索結果に一致する件数を出力する](linux/grep-only-count.md)
 - [ターミナルの行設定の変更や表示を行う](linux/man-stty.md)
 - [期限切れしたRed Hat Developer Subscription for Individualsを更新する](linux/update-rhel-subscription.md)
-- [xargsで指定した個数ずつ引数をコマンドに渡す](linux/xargs-multi-args.md)
-- [xargsで並行実行する](linux/xargs-multi-procs.md)
 
 ### Mac
 - [CPUなどの情報をコマンドで取得する](mac/get-cpuinfo.md)
@@ -48,3 +45,9 @@
 ### Vim
 - [コマンドラインモードのTab補完で大文字小文字を無視する](vim/set-ignorecase.md)
 - [デフォルトのキーマップ色々](vim/default-keymaps.md)
+
+### Command
+- [grepで検索結果に一致するファイル名だけ出力する](command/grep-only-filename.md)
+- [grepで検索結果に一致する件数を出力する](command/grep-only-count.md)
+- [xargsで指定した個数ずつ引数をコマンドに渡す](command/xargs-multi-args.md)
+- [xargsで並列実行する](command/xargs-multi-procs.md)
