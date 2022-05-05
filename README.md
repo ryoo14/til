@@ -49,5 +49,6 @@
 ### Command
 - [grepで検索結果に一致するファイル名だけ出力する](command/grep-only-filename.md)
 - [grepで検索結果に一致する件数を出力する](command/grep-only-count.md)
+- [seqで逆順に数え下げる](command/seq-countdown.md)
 - [xargsで指定した個数ずつ引数をコマンドに渡す](command/xargs-multi-args.md)
 - [xargsで並列実行する](command/xargs-multi-procs.md)
