@@ -49,6 +49,7 @@
 - [デフォルトのキーマップ色々](vim/default-keymaps.md)
 
 ### Command
+- [dnfで指定したパッケージに依存しているパッケージを検索する](command/dnf-repoquery-whatrequires.md)
 - [grepで検索結果に一致するファイル名だけ出力する](command/grep-only-filename.md)
 - [grepで検索結果に一致する件数を出力する](command/grep-only-count.md)
 - [sedで処理した行のみ表示する](command/sed-only-display.md)
