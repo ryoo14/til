@@ -32,6 +32,7 @@
 - [ターミナルの行設定の変更や表示を行う](linux/man-stty.md)
 - [期限切れしたRed Hat Developer Subscription for Individualsを更新する](linux/update-rhel-subscription.md)
 - [bashの便利な変数展開](linux/bash-variable-expantion.md)
+- [bashで算術演算](linux/bash-arithmetic-expression.md)
 
 ### Mac
 - [CPUなどの情報をコマンドで取得する](mac/get-cpuinfo.md)
